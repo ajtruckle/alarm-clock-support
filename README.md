@@ -1,4 +1,4 @@
-# Alarm Clock Support
+# Alarm Clock — Support
 
 ## Overview
 This repository serves as the central hub for *support, documentation, and community discussions* for [Alarm Clock](https://github.com/ajtruckle/alarm-clock-support/wiki).  
