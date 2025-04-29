@@ -11,3 +11,8 @@ This repository serves as the central hub for *support, documentation, and commu
 - *[Discussions](https://github.com/ajtruckle/alarm-clock-support/discussions)*: Ask questions, share ideas, or get help from the community.  
 
 *Need help?* Open an [issue](https://github.com/ajtruckle/alarm-clock-support/issues) or join the [discussion](https://github.com/ajtruckle/alarm-clock-support/discussions)!
+
+## Download
+- [32 Bit](https://trucklesoft.org.uk/?sdm_process_download=1&download_id=295)
+- [64 Bit](https://trucklesoft.org.uk/?sdm_process_download=1&download_id=294)
+
